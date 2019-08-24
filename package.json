@@ -1,0 +1,26 @@
+{
+  "name": "opinionon.xyz",
+  "version": "0.0.0",
+  "description": "Application voicing peoples' opinion on xyz.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acetheultimate/opinionon.git"
+  },
+  "keywords": [
+    "opinion",
+    "voice",
+    "thought",
+    "vote",
+    "suggestion"
+  ],
+  "author": "Yogesh Sharma, Chinmaya Pati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acetheultimate/opinionon/issues"
+  },
+  "homepage": "https://github.com/acetheultimate/opinionon#readme"
+}
