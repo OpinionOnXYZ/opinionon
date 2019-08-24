@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/acetheultimate/opinionon.git"
-  },
   "keywords": [
     "opinion",
     "voice",
@@ -19,8 +15,12 @@
   ],
   "author": "Yogesh Sharma, Chinmaya Pati",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/acetheultimate/opinionon/issues"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpinionOnXYZ/opinionon.git"
   },
-  "homepage": "https://github.com/acetheultimate/opinionon#readme"
+  "bugs": {
+    "url": "https://github.com/OpinionOnXYZ/opinionon/issues"
+  },
+  "homepage": "https://github.com/OpinionOnXYZ/opinionon#readme"
 }
